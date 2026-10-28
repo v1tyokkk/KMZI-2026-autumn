@@ -1,0 +1,9 @@
+# Игнорировать всё, что не является исходным кодом.
+*
+!*/
+!.gitignore
+!Makefile
+!include/
+!src/
+!include/*.hpp
+!src/*.cpp
